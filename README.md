@@ -16,13 +16,30 @@
 
 <br />
 
-Hi I'm Subham Rath, a pre-final year undergrad from [Silicon Institute Of Technology ,Bhubaneswar](https://www.silicon.ac.in/)
+Hi I'm Subham Rath, a pre-final year undergrad from [Silicon Institute Of Technology ,Bhubaneswar](https://www.silicon.ac.in/) .I am passionate about Electronics and have some Specilized skills like Analog and Digital Layout design, STA, RTL design, FPGA implementation etc. 
+
+I am looking for internships in field of Digital and Analog VLSI design. 
+
+- Profile Summary:
+
+    - Good understanding of CMOS Integrated Circuit (IC) design.
+    - Basic understanding of CMOS SRAM design and Memory Compiler.
+    - Knowledge of CMOS Layout and Scribe Line Layout.
+    - Basic understanding of FPGA implementation.
+    - Created a temperature sensing circuit using PT100 with LabVIEW interface.
+    - Basic training in Logic Synthesis and Static Timing Analysis (STA).
+    - Having knowledge about STA, Delay Model & calculation, and familiar with OpenSTA.
+    - Familiar with different IO files used in a VLSI flow.
+    - Fundamentally strong in Digital/Analog Electronics, Control System, & Analog Communication & Digital Signal Processing.
+    - Familiar with Embedded Programming,Experienced in several IoT projects.
+
+
 - 🔭 I’m currently working on 28nm CMOS Layout Design
 - 🌱 I’m currently learning Digital and Analog Physical Design Flow
 - 👯 I’m looking to collaborate on Projects related to VLSI Design
 - 🤔 I’m looking for help with Analog Circuit Design
 - 💬 Ask me about anything, I will help from my knowledge base
-- 📫 How to reach me: [Subham Rath](srath953@gmail.com)
+- 📫 How to reach me: <img src="https://user-images.githubusercontent.com/16131737/65396536-0b6e0480-dd5c-11e9-896d-c11d0bc70e84.gif" width="30px"> [Subham Rath](srath953@gmail.com) 
 - ⚡ Fun fact: If you recalculate Moore's law on a weekly basis, the VLSI industry has been getting a ~1% improvement in its products every working week on average. For the last 40 years.
 
 
