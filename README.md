@@ -10,11 +10,11 @@
 </a>
 
 
-
 ![](https://visitor-badge.glitch.me/badge?page_id=SubhamRath.SubhamRath)
 
 <br />
 
+Hi I'm Subham Rath, a pre-final year undergrad from [Silicon Institute Of Technology ,Bhubaneswar](https://www.silicon.ac.in/)
 - 🔭 I’m currently working on 28nm CMOS Layout Design
 - 🌱 I’m currently learning Digital and Analog Physical Design Flow
 - 👯 I’m looking to collaborate on Projects related to VLSI Design
