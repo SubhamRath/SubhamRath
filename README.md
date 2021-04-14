@@ -39,7 +39,7 @@ I am looking for internships in field of Digital and Analog VLSI design.
 - 👯 I’m looking to collaborate on Projects related to VLSI Design
 - 🤔 I’m looking for help with Analog Circuit Design
 - 💬 Ask me about anything, I will help from my knowledge base
-- 📫 How to reach me: <img src="https://user-images.githubusercontent.com/16131737/65396536-0b6e0480-dd5c-11e9-896d-c11d0bc70e84.gif" width="30px"> [Subham Rath](srath953@gmail.com) 
+- 📫 How to reach me: <img src="https://user-images.githubusercontent.com/16131737/65396536-0b6e0480-dd5c-11e9-896d-c11d0bc70e84.gif" width="30px"> [Subham Rath](mailto:srath953@gmail.com) 
 - ⚡ Fun fact: If you recalculate Moore's law on a weekly basis, the VLSI industry has been getting a ~1% improvement in its products every working week on average. For the last 40 years.
 
 
