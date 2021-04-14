@@ -33,6 +33,13 @@ I am looking for internships in field of Digital and Analog VLSI design.
     - Fundamentally strong in Digital/Analog Electronics, Control System, & Analog Communication & Digital Signal Processing.
     - Familiar with Embedded Programming,Experienced in several IoT projects.
 
+- Education:
+
+| Passout Year  | Instituition  | Course | Grade |
+| ------------- | ------------- | -----  | ----- |
+| 2022  | Silicon Institute Of Technology, Bhubaneswar  | B.tech(ECE) | 9.58 |
+| 2018  | Sri Aurobindo Science College, Cuttack  | 12th PCMB | 87.63% |
+| 2016  | Saraswati Shishu Vidya Mandir, Jagatsinghpur | 10th | 90.33 |
 
 - 🔭 I’m currently working on 28nm CMOS Layout Design
 - 🌱 I’m currently learning Digital and Analog Physical Design Flow
